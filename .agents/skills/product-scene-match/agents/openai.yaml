@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Scene Match"
+  short_description: "Match a reference scene to an original product photograph"
+  default_prompt: "Use $product-scene-match to place my product in the reference scene, remove the original scene lettering, preserve the product's camera angle and pixel size, and export a high-resolution PNG."
