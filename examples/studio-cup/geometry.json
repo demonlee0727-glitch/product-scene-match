@@ -1,0 +1,65 @@
+{
+  "canvas_px": [
+    3840,
+    2880
+  ],
+  "plate_native_px": [
+    1448,
+    1086
+  ],
+  "plate_upscaled": true,
+  "product_source_canvas_px": [
+    1254,
+    1254
+  ],
+  "product_source_bbox_xyxy": [
+    0,
+    0,
+    1238,
+    1254
+  ],
+  "product_output_bbox_xyxy": [
+    1360,
+    960,
+    2598,
+    2214
+  ],
+  "product_visible_size_px": [
+    1238,
+    1254
+  ],
+  "product_scale": 1,
+  "product_rotation_deg": 0,
+  "ground_shadows_xy_radii_angle_blur_opacity": [
+    [
+      2100.0,
+      1990.0,
+      520.0,
+      100.0,
+      -10.0,
+      42.0,
+      0.27
+    ],
+    [
+      1872.0,
+      2042.0,
+      235.0,
+      74.0,
+      -5.0,
+      15.0,
+      0.48
+    ],
+    [
+      1862.0,
+      2064.0,
+      170.0,
+      43.0,
+      0.0,
+      9.0,
+      0.42
+    ]
+  ],
+  "opaque_pixels_checked": 805,
+  "blended_pixels_checked": 831066,
+  "flattened_crop_exact": true
+}
